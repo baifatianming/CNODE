@@ -6,6 +6,7 @@ import MuseUI from 'muse-ui'
 import '../css/muse-ui.css'
 Vue.use(MuseUI)
 
+// be6361e7-5a90-4c0e-9c45-eb3ed89a8016
 window.$ = require("jquery");
 import indexComponent from '../components/indexComponent.vue';
 import listComponent from '../components/listComponent.vue';
